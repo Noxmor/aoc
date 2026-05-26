@@ -11,5 +11,5 @@ pub fn solve(input: &String) {
         result += surface_area + dimensions[0] * dimensions[1];
     }
 
-    println!("{result}");
+    println!("Part 1: {result}");
 }
